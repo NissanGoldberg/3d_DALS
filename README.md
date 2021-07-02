@@ -1,6 +1,9 @@
 # 3D Dals
 
+### Getting Started
+download **PyTorch** and **CUDA**
 
+run ***main.py***
 
 ### NN model
 
